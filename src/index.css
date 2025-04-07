@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --card-cols: repeat(auto-fill, minmax(16rem, 1fr));
+  }
+}
